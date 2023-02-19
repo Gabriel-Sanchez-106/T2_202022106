@@ -1,0 +1,9 @@
+P: hawaiana V: 21000
+SI: tomate
+NO: tocineta express
+
+Precio Neto : 21000
+Valor IVA   : 3990
+Precio Total: 24990
+Nombre Cliente: a
+Direccion Cliente: a

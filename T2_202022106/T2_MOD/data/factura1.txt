@@ -1,0 +1,7 @@
+P: combo corral queso, V: 19800 [Cal: 125 ]
+Calorias Totales: 125
+Precio Neto : 19800
+Valor IVA   : 3762
+Precio Total: 23562
+Nombre Cliente: a
+Direccion Cliente: a
